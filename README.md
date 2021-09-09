@@ -21,7 +21,7 @@ These rules are tentative.
 
 These are not strict rules but hints or suggestions. You can ignore them but we'd recommend you to follow them.
 
-* Matz Ruby Implementation (MRI) 2.5 is recommended.
+* Matz Ruby Implementation (MRI) 3.1 is recommended.
 * You can use implementations other than MRI, such as JRuby and Rubinius.
 * The judges would prefer more stoic, more portable, and/or more funny entries.
 * You are encouraged to study the winners of [previous TRICK contests](https://github.com/tric/).
