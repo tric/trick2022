@@ -30,6 +30,10 @@ These are not strict rules but hints or suggestions. You can ignore them but we'
   * It is highly discouraged to abuse gem to get around the size limit.
 * To judge without bias, we will try to keep each entry anonymous during judgment. Do not include anything that reveal your identity (such as a signature, copyright, URL, etc.) in your program.
 
+## How to submit
+
+TBA
+
 ## Important Dates
 
 * 9th Sep. 2022: Contest open
