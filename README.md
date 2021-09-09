@@ -36,7 +36,7 @@ TBA
 
 ## Important Dates
 
-* 9th Sep. 2022: Contest open
+* 9th Sep. 2021: Contest open
 * TBA: Submission deadline (maybe one month before RubyKaigi 2022)
 * TBA: Result announcement (at RubyKaigi 2022)
 
