@@ -32,17 +32,40 @@ These are not strict rules but hints or suggestions. You can ignore them but we'
 
 ## How to submit
 
-TBA
+* Your submission must consist of the following files:
+  * `entry.rb` (program source)
+  * `remarks.markdown`
+  * `authors.markdown`
+  * `Gemfile`, `Gemfile.lock` (if you use any gem library)
+  * data files (if needed)
+* `remarks.markdown` must include the following information:
+  * Ruby implementation, version, platform that you use (it is a good idea to copy and paste the output of `ruby -v`)
+  * How to run
+* `authors.markdown` must include the following information (and the `remarks.markdown` must NOT have them):
+  * Your name (handle is ok)
+  * ccTLD of your country/region
+* Compress your entry as a zip file called `entry.zip` and send it to `trick.submit at gmail.com` as an attachment.
+  * You must include the words `TRICK 2018 submission` in the subject of your email.
+  * See [an example of `entry.zip`](entry.zip).
+
+If you have any question, please send a mail to `trick-judges at googlegroups.com`.
 
 ## Important Dates
 
 * 9th Sep. 2021: Contest open
-* TBA: Submission deadline (maybe one month before RubyKaigi 2022)
-* TBA: Result announcement (at RubyKaigi 2022)
+* 31st Jul. 2022: Submission deadline
+* 8th--10th Sep. 2022: Result announcement (at RubyKaigi 2022)
 
 ## Judges
 
-TBA
+Alphabetical order.
+
+* Yusuke Endoh ([@mametter][mametter]. Ruby committer. [The world's No.1 IOCCC player][ioccc_endoh].)
+* Koichiro Eto ([@eto][eto]. Media Artist. [Chairman at NicoNicoGakkai Beta][niconicogakkai].)
+* Shinichiro Hamaji ([@shinh][shinh]. [The admin of anarchy golf][golf]. [IOCCC winner][ioccc_shinh].)
+* Yutaka Hara ([@yhara][yhara]. [The author of Japanese esolang book][esolangbook].)
+* Yukihiro Matsumoto (a.k.a. matz. [@yukihiro_matz][yukihiro_matz]. The creator of Ruby.)
+* Sun Park (a.k.a. leonid. [The 1st super Ruby golfer][golfers].)
 
 ## Legal
 
