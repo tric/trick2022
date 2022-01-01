@@ -45,7 +45,7 @@ These are not strict rules but hints or suggestions. You can ignore them but we'
   * Your name (handle is ok)
   * ccTLD of your country/region
 * Compress your entry as a zip file called `entry.zip` and send it to `trick.submit at gmail.com` as an attachment.
-  * You must include the words `TRICK 2018 submission` in the subject of your email.
+  * You must include the words `TRICK 2022 submission` in the subject of your email.
   * See [an example of `entry.zip`](entry.zip).
 
 If you have any question, please send a mail to `trick-judges at googlegroups.com`.
