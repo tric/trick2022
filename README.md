@@ -67,6 +67,18 @@ Alphabetical order.
 * Yukihiro Matsumoto (a.k.a. matz. [@yukihiro_matz][yukihiro_matz]. The creator of Ruby.)
 * Sun Park (a.k.a. leonid. [The 1st super Ruby golfer][golfers].)
 
+[mametter]: https://twitter.com/mametter
+[eto]: https://twitter.com/eto
+[shinh]: https://twitter.com/shinh
+[yhara]: https://twitter.com/yhara
+[yukihiro_matz]: https://twitter.com/yukihiro_matz
+[ioccc_endoh]: http://www.ioccc.org/winners.html#Yusuke_Endoh
+[ioccc_shinh]: http://www.ioccc.org/winners.html#Shinichiro_Hamaji
+[niconicogakkai]: http://niconicogakkai.jp/
+[golf]: http://golf.shinh.org/
+[esolangbook]: http://esolang-book.route477.net/
+[golfers]: http://golf.shinh.org/u.rb?rb
+
 ## Legal
 
 This work is licensed under the MIT License.
