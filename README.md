@@ -53,8 +53,8 @@ If you have any question, please send a mail to `trick-judges at googlegroups.co
 ## Important Dates
 
 * 9th Sep. 2021: Contest open
-* 31st Jul. 2022: Submission deadline
-* 8th--10th Sep. 2022: Result announcement (at RubyKaigi 2022)
+* 31st Jul. 2022: Submission deadline *Now closed*. We have been sent a receipt email to every applicant. If you do not receive a receipt email, please let me know (`trick.submit at gmail.com` or [@mametter][mametter]).
+* 8th Sep. 2022: Result announcement (at RubyKaigi 2022)
 
 ## Judges
 
