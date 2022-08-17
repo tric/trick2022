@@ -66,6 +66,7 @@ Alphabetical order.
 * Yutaka Hara ([@yhara][yhara]. [The author of Japanese esolang book][esolangbook].)
 * Yukihiro Matsumoto (a.k.a. matz. [@yukihiro_matz][yukihiro_matz]. The creator of Ruby.)
 * Sun Park (a.k.a. leonid. [The 1st super Ruby golfer][golfers].)
+* Darren Smith (a.k.a. flagitious. [The author of some esolangs including GolfScript][golfscript].)
 
 [mametter]: https://twitter.com/mametter
 [eto]: https://twitter.com/eto
@@ -78,6 +79,7 @@ Alphabetical order.
 [golf]: http://golf.shinh.org/
 [esolangbook]: http://esolang-book.route477.net/
 [golfers]: http://golf.shinh.org/u.rb?rb
+[golfscript]: http://www.golfscript.com/
 
 ## Legal
 
