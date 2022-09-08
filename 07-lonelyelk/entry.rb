@@ -1,0 +1,10 @@
+$q=%w[$w&&!$s&&exit;W=130;H=80;HS=40;puts(q="$q=%w[#$q].join;at_exit{eval($q)}".chars.each_slice(W).map(&:join).join("\n"));$s&&$w
+&&(puts('$w="'+$w+?"+";at_exit{$s=#$s}\n#{q}")||exit);srand($s||=Random.new_seed);f=0.03+0.03*rand;k=0.057+0.006*rand;g=32.chr+".:
+-=+*#%@";mc=800+400*rand;spt=(1..(3+5*rand)).map{{x:(W*rand).floor,y:(H*rand).floor,r2:(10+10*rand)**2}};z=(0...H).map{|y|(0...W).
+map{|x|{a:1.0,b:spt.any?{|s|s[:r2]>=(x-s[:x])**2+(y-s[:y])**2}&&1.0||0.0}}};n=(1..H).map{(1..W).to_a};$l=->(v,x,y,s){(l=x-1)<0&&l=
+W-1;(r=x+1)>=W&&r=0;(t=y-1)<0&&t=H-1;(b=y+1)>=H&&b=0;0.2*(v[y][r][s]+v[y][l][s]+v[t][x][s]+v[b][x][s])+0.05*(v[t][r][s]+v[t][l][s]
++v[b][r][s]+v[b][l][s])-v[y][x][s]};print('$w="');pc=4;mc.to_i.times{|c|(0...W).map{|x|(0...H).map{|y|la=$l.call(z,x,y,:a);lb=$l.c
+all(z,x,y,:b);a=z[y][x][:a];b=z[y][x][:b];n[y][x]={a:(a+1.0*la-a*b*b+f*(1-a)).clamp(0,1),b:(b+0.5*lb+a*b*b-(k+f)*b).clamp(0,1)}}};
+z,n=[n,z];((c+=1)/mc*W).floor>pc&&(pc+=1)&&print(?.)};puts(?.*(W-pc));dmi,dma=z.map{|l|l.map{|v|v[:a]-v[:b]}.minmax}.flatten.minma
+x;z.each_slice(H/HS){|l|W.times{|x|sum=l.inject(0.0){|a,l|l[x,1].inject(a){|s,v|s+((v[:a]-v[:b]-dmi)/dma)}};print(g.chars[(sum*W*H
+S*g.size/(W*H)).clamp(0,g.size-1).floor])};puts};ft=?"+";at_exit{$s=#$s}";puts(?.*(W-ft.size)+ft+10.chr+q)].join;at_exit{eval($q)}

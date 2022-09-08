@@ -1,5 +1,23 @@
 # TRICK 2022 (Returns)
 
+The 4th (Returns) Transcendental Ruby Imbroglio Contest for rubyKaigi
+
+## Winners
+
+* Top 3
+  * Gold: "Best fishbowl" -- Tomoya Ishida (tompng)
+  * Silver: "Most interactive code" -- Tomoya Ishida (tompng)
+  * Bronze: "Most anti-gravity" -- Yusuke Endoh
+
+* Judges' awards
+  * shinh award: "Most orderly code" -- Tomoya Ishida
+  * leonid award: "Most accessible" -- Yutaka HARA
+  * eto award: "Most global" -- Yusuke Endoh
+  * matz award: "Most reactive and diffusive" -- Sergey Kruk
+  * fragitious award: "Most likely to be required" -- Yutaka HARA
+  * yhara award: "Most playable" – Don Yang
+  * mame award: "Most calculating" -- SAITOH Jinroq
+
 ## Goals of the TRICK
 
 * To write the most Transcendental, Imbroglio Ruby program.
