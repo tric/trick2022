@@ -22,19 +22,19 @@ MatXj|o[sin(i)/2+````` ```sin(                   `/2.0`````````)*j/200,j*0.0Xrix
 [*(X5-1,0.02,0.1]``}}   ``.                       q[t,``_1];m``[y][x]= };i=-X0..
 44).X1;$><<(['%%','[H                            .map{|j|(0..79).map{|k|x=(Xmap{
  |i,X -39.5)/35.8;y=(                            i+=1;m[j][k]?h:c[i]):ls[j]X*b|
- v<<X[k];}*''}*$/<<0)      1)%9                     te"`")#iJw6$Dcc1]r*G"eDXa.z
-  ip(X%P<M^Az!7?f*yxM   `d"qi77UD*T!: .^B][T          ?%:"w82/s3A[M]V %KbeX0..
-  ).suX5,G_=6D65#,zMaW   $lsR=!Uvhio  zb   :          dE:50obh|RgCTFfy*+)Xm{-(
-   p=(XH0},JA>;rxRht+    ADjV;e&'/h   Qg              cO?,C%J a0mE+Qy2a9'X(i+
-    _2)X^):t|am}b`k>e     zxd[HJ9    ony               JC gucaew/gcoWRy_X**9
-     .1).X*]u+DL(&hH  wc  8531x'b    bd=           }  < z  Say vJ@{?+$Xto_i
-      %88+XV-GE'5^Va  <9   *`?9b1   >_ }     8g   3   4 l  zH_/o@j*2vX1)*(
-       _1||(Xp]h"u=4-  U.   0nz2-  E9U      #"pl=^   e    E(=+x6s/pXb<<p;
-         0))}X3t_@K?C   C&  ^6(BE  > K  2DA B8jDlS  b*    WpM(|t(2X;b}]
-          .lup.X5R(B71  la  u?5V?  M(2  dP  <S<,fo  Qv   >Fj4<?KXsolve
-            (v);13X"$;  wL  b,l^f$  f,5  z  R,PhV#  pM   w^7UX5.time
-               s{c[i+X  (8  NfbKS)  2*`  I RW7zgh!P j6   tX15*_1]
-                 =z[a[_1]X enuc,T=  Oi.  > 5D=#(;(%  ?X||w.shif
-                     t]}};eval(X9P  lRQ  S dq4M(Xc)~.split(
+ v<<X[k];}*''}*$/<<0)      1)%9                     te"`")#qv.jSaL{=;q(Q}4fXa.z
+  ip(Xjs(:#tK`Jm))FKO   /A9(2'%iorvf7 eEa0uV          xv+Q@qUU](L@&Py .1v'X0..
+  ).suXydSEH{-GI|-5(,z   G5evpq,[b50  D[   t          {on,I?VStS`?G@LoqFCXm{|j
+   ,k|Xj1.QnxKz!mH%o#    )b2Seut,]!   48              lBieJGi 5jeNPD#b}H3X-(p
+    =(iXaVz#8*+US,hgF     5#6]y-`    4hy               HN hF75WjD!0IxJ$sX+k)
+     .powX+UP"cNUE9-  G<  tHvV;Ib    <-s           U  T ?  vlE xylg=x#X(i+k
+      ,88)XV9u$9lKb9  @C   do7+-w   >l {     v9   {   P l  ga%]AK<e&'X+1)*
+       (j||(X4ifK/6S+  k}   @@*a}  6rS      xn"Q[M   8    `|g>$#BrjXb<<p;
+         0))}XtbDp'Kc   t2  Dat9C  s C  rL+ g,j]Tf  B<    eMI+zzkWX;b}]
+          .lup.XtVP<ak  IM  E/+)B  jwv  uB  (Twqed  D*   dyf_dT7Xsolve
+            (v);13Xn:8  #_  RiSTO,  [Fk  m  O]O#"+  a_   cT_.X5.time
+               s{c[i+X  e5  T`FBEC  q*f  2 o@{a<eUG aW   PX15*_1]
+                 =z[a[_1]X z_@`nll  7F1  2 [=^uS0z^  6X||w.shif
+                     t]}};eval(Xfg  K#R  N bp-E_Xc)~.split(
                          ?X);(0..36).map{s[2*_1].split}
                                .join.tr('$',$/)))
